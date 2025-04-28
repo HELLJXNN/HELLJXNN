@@ -25,7 +25,7 @@ Mi misión es construir, aprender y compartir. ¡Sigue el viaje conmigo! 🌈
 
 ## 🌍 Encuéntrame:
 <p>
-<a href="www.linkedin.com/in/jennifer-lascarro-sosa-054169308" target="_blank">
+<a href="https://www.linkedin.com/in/jennifer-lascarro-sosa-054169308" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
@@ -35,7 +35,7 @@ Mi misión es construir, aprender y compartir. ¡Sigue el viaje conmigo! 🌈
 ## Certificatons:
 <p>
 <a href="https://www.credly.com/badges/f450d186-35e7-4907-8977-48dcd2d3934d/linked_in_profile" target="_blank">
-  <img src="https://img.shields.io/badge/Cybersecurity Awareness Learner-VER%20CREDENCIAL-blue?style=for-the-badge&logo=graduation-cap)](https://link-a-tu-certificacion.com" />
+  <img src="https://img.shields.io/badge/Cybersecurity Awareness Learner-VER%20CREDENCIAL-blue?style=for-the-badge&logo=graduation-cap)](https://www.credly.com/badges/f450d186-35e7-4907-8977-48dcd2d3934d/linked_in_profile" />
 </a>
 </p>
 
