@@ -48,7 +48,7 @@ My mission is to build, learn, and share. Join me on this journey! 🌈
 
 ## 📈 Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jennx-x&show_icons=true&theme=tokyonight" width="45%" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Jennx-x&show_icons=true&theme=tokyonight" width="45%" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennx-x&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
