@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media1.tenor.com/m/Q6z2wfQ49UIAAAAC/thumbs-up-reagan-ridley.gif](https://sdmntprwestus2.oaiusercontent.com/files/00000000-7f80-61f8-a213-84d955d86488/raw?se=2025-06-25T04%3A21%3A33Z&sp=r&sv=2024-08-04&sr=b&scid=eddc71d4-832a-5896-972b-a92c11c7546e&skoid=7399a3a4-0259-4d43-bcd6-a56ceeb4c28b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-24T21%3A13%3A52Z&ske=2025-06-25T21%3A13%3A52Z&sks=b&skv=2024-08-04&sig=i4esYqUPMBC%2BvMfIm1uxOIVMp7M052FLR7Avo3uhhHc%3D)" width="28%" height="250px">
+  <img src="https://media1.tenor.com/m/Q6z2wfQ49UIAAAAC/thumbs-up-reagan-ridley.gif" width="28%" height="250px">
 </p>
 
 # 👾 Welcome to my world!
