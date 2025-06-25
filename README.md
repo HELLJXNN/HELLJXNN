@@ -47,11 +47,13 @@ My mission is to build, learn, and share. Join me on this journey! 🌈
 ---
 
 ## 📈 Stats:
-&lt;p align="center">
-&lt;img src="https://github-readme-stats.vercel.app/api?username=HELLJXNN&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="Estadísticas de GitHub de HELLJXNN" width="45%" />
+<p align="center">
 
-&lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HELLJXNN&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Lenguajes Top de HELLJXNN" width="45%" />
-&lt;/p>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Jennx-x&show_icons=true&theme=tokyonight" width="45%" /> -->
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HELLJXNN&layout=compact&theme=tokyonight" width="45%" />
+
+</p>
 ---
 
 ### 🎆 See you soon! 🎆
